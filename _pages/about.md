@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year (2022-now) MPhil student in Computer Science Department at The University of Hong Kong. 
+I am a MPhil candidate in Computer Science Department at The University of Hong Kong. 
 I am under the supervision of [Prof. Heming Cui](https://i.cs.hku.hk/~heming/).
 
 My research interests are in blockchain and security.
